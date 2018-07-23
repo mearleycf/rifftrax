@@ -1,6 +1,7 @@
+
 # rifftrax
 
-> A database of rifftrax movies
+A personal database of rifftrax movies and where they can be viewed or downloaded.
 
 ## Build Setup
 
@@ -25,3 +26,4 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
